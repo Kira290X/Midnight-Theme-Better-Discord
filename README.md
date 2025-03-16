@@ -6,7 +6,7 @@ You need Better Discord to use this theme.
 
 ## How I activate Midnight Theme?
 
-### {Make sure you install [a link] (https://betterdiscord.app/)}
+### {Make sure you install [a link] (https://betterdiscord.app/) }
 
 1. Install the Midnight Theme.
 2. Go to Discord settings and scroll to Themes settings.
